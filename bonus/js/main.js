@@ -1,37 +1,37 @@
 // what's your name?
 
-var yourname
+var yourName
 
 yourname = prompt("Potresti dirmi qual è il tuo nome?")
 
-console.log(yourname)
+console.log(yourName)
 
 
 // what's your surname?
 
-var surname
+var surName
 
 surname = prompt("Potresti dirmi qual è il tuo cognome?")
 
-console.log(surname)
+console.log(surName)
 
 
 // what's your favourite color?
 
-var yourcolor
+var yourColor
 
 yourcolor = prompt("Potresti dirmi qual è il tuo colore preferito?")
 
-console.log(yourcolor)
+console.log(yourColor)
 
 
 // What's your age?
 
-var age
+var Age
 
 age = prompt("Potresti dirmi qual è la tua età?")
 
-console.log(age)
+console.log(Age)
 
 
 // all four info togheter
