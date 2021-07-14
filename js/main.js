@@ -36,5 +36,5 @@ console.log(yourAge)
 
 // all four info togheter
 
-document.getElementById("allfourinfo").innerHTML="MicheleIernieroarancione31";
+document.getElementById("allfourinfo").innerHTML=(yourName + yourSurname + yourColor + yourAge);
 
