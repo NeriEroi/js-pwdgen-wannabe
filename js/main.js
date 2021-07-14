@@ -9,11 +9,11 @@ console.log(yourName)
 
 // what's your surname?
 
-var surName
+var yourSurname
 
 surname = prompt("Potresti dirmi qual è il tuo cognome?")
 
-console.log(surName)
+console.log(yourSurname)
 
 
 // what's your favourite color?
@@ -27,11 +27,11 @@ console.log(yourColor)
 
 // What's your age?
 
-var Age
+var yourAge
 
 age = prompt("Potresti dirmi qual è la tua età?")
 
-console.log(Age)
+console.log(yourAge)
 
 
 // all four info togheter
