@@ -2,7 +2,7 @@
 
 var yourName
 
-yourname = prompt("Potresti dirmi qual è il tuo nome?")
+yourName = prompt("Potresti dirmi qual è il tuo nome?")
 
 console.log(yourName)
 
@@ -11,7 +11,7 @@ console.log(yourName)
 
 var yourSurname
 
-surname = prompt("Potresti dirmi qual è il tuo cognome?")
+yourSurname = prompt("Potresti dirmi qual è il tuo cognome?")
 
 console.log(yourSurname)
 
@@ -20,7 +20,7 @@ console.log(yourSurname)
 
 var yourColor
 
-yourcolor = prompt("Potresti dirmi qual è il tuo colore preferito?")
+yourColor = prompt("Potresti dirmi qual è il tuo colore preferito?")
 
 console.log(yourColor)
 
@@ -29,7 +29,7 @@ console.log(yourColor)
 
 var yourAge
 
-age = prompt("Potresti dirmi qual è la tua età?")
+yourAge = prompt("Potresti dirmi qual è la tua età?")
 
 console.log(yourAge)
 
